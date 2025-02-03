@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-image: url("img1.jpg");
+}
+#p1{
+    font-family: Cambria, Cochin, Georgia;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    color: cornsilk;
+    background-color: midnightblue;
+}
+#p2{
+    font-family:cursive;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    color:darkmagenta;
+    background-color:antiquewhite;
+ }
+img{
+    width: 20%;
+    height: 20%;
+    border-radius: 15px;
+    border: black solid 4px;
+    padding: 4px;
+}
